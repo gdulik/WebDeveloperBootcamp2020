@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Forms Demo</title>
+</head>
+<body>
+  <h1>Forms Demo</h1>
+  <form action="/test">
+    <button type="button">Do not submit</button>
+    <p>
+      <label for="username">Enter your username: </label>
+      <input id="username" type="text" placeholder="username" name="username">
+    </p>
+    <p>
+      <label for="password">Enter your password: </label>
+      <input id="password" type="password" placeholder="password" name="password">
+    </p>
+    <button>In the middle</button>
+    <p>
+      <label for="color">Enter a color</label>
+      <input id="color" type="color" name="color">
+    </p>
+    <p>
+      <label for="number">Enter a number</label>
+      <input id="number" type="number" placeholder="number" name="num">
+    </p>
+    <div class="preference">
+      <label for="cheese">Do you like cheese?</label>
+      <input type="checkbox" name="cheese" id="cheese">
+    </div>
+    <div class="preference">
+      <label for="peas">Do you like peas?</label>
+      <input type="checkbox" name="peas" id="peas">
+    </div>
+    <button>Submit</button>
+    <input type="submit" value="click me">
+  </form>
+</body>
+</html>
