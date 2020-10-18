@@ -1,0 +1,19 @@
+body {
+  font-family: Arial;
+}
+
+h1 {
+  text-align: center;
+  font-weight: 700;
+  text-decoration: underline wavy #2f22f2; /*underline, overline, line-through*/
+  letter-spacing: 15px;
+  font-size: 50px;
+}
+
+a {
+  text-decoration: none;
+}
+
+p {
+  line-height: 2;
+}
