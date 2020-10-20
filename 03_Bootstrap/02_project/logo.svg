@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="235.472" height="66.624" viewBox="0 0 235.472 66.624">
+  <g id="Group_2" data-name="Group 2" transform="translate(-153.528 -8.376)">
+    <text id="SEVENBIKE" transform="translate(221 54)" fill="#fff" font-size="32" font-family="OpenSans-Bold, Open Sans" font-weight="700"><tspan x="0" y="0">SEVEN</tspan><tspan y="0" font-family="OpenSans-Regular, Open Sans" font-weight="400">BIKE</tspan></text>
+    <g id="logo" transform="translate(18 4)">
+      <g id="Group_1" data-name="Group 1" transform="translate(-0.472 -0.315)">
+        <g id="Ellipse_1" data-name="Ellipse 1" transform="translate(144 25.315)" fill="none" stroke="#fff" stroke-width="4">
+          <ellipse cx="19.064" cy="19" rx="19.064" ry="19" stroke="none"/>
+          <ellipse cx="19.064" cy="19" rx="17.064" ry="17" fill="none"/>
+        </g>
+        <path id="Path_2" data-name="Path 2" d="M50.128,25.189A25.064,25.064,0,1,1,0,25.189v-37.5H50.128Z" transform="translate(138 19)" fill="none" stroke="#fff" stroke-linejoin="round" stroke-width="4"/>
+      </g>
+      <path id="Path_1" data-name="Path 1" d="M163,44l17.656-32.624s-22.914.038-22.914,0c-8.625.124-7.939,9.393,0,9.092" transform="translate(0 1)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="4"/>
+    </g>
+  </g>
+</svg>

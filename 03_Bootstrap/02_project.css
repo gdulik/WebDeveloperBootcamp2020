@@ -1,0 +1,63 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  background-color: #000;
+}
+
+.navbar {
+  font-weight: 300;
+}
+
+.navbar-toggler-icon {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28255, 255, 255, 1%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+
+.nav-link, .navbar-toggler{
+  color: #fff;
+  border-color: #fff;
+}
+
+.nav-link:hover {
+  color: #ffdd00;
+}
+
+.yellowText {
+  color: #ffdd00;
+}
+
+.landingPage {
+  font-size: 4rem;
+  font-weight: 400;
+  height: 1000px;
+}
+
+.btn-outline-primary {
+  color: #fff;
+  border: 3px solid #ffdd00;
+  background-color: #000;
+  border-radius: 10px;
+  padding: 0.8em 1.5em;
+}
+
+.btn-outline-primary:hover {
+  color: #000;
+  background-color: #ffdd00;
+  border: 3px solid #ffdd00;
+}
+
+.btn-primary {
+  color: #000;
+  border: 3px solid #ffdd00;
+  background-color: #ffdd00;
+  border-radius: 10px;
+  padding: 0.8em 1.5em;
+}
+
+.btn-primary:hover {
+  color: #000;
+  background-color: #ccb400;
+  border: 3px solid #ffdd00;
+}
+
+#bg1 {
+  background: center/cover url(02_project/bg1.jpg);
+}
