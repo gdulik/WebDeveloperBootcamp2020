@@ -3,6 +3,10 @@ body {
   background-color: #000;
 }
 
+.container {
+  max-width: 80%;
+}
+
 .navbar {
   font-weight: 300;
 }
@@ -58,6 +62,6 @@ body {
   border: 3px solid #ffdd00;
 }
 
-#bg1 {
+/* #bg1 {
   background: center/cover url(02_project/bg1.jpg);
-}
+} */
