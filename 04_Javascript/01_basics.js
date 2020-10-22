@@ -28,3 +28,18 @@ if ( password.length >= 6 ) {
 
 // Arrays
 let daysOfWeek = ["Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sunday"]
+
+// Array Methods
+// push(),pop(),shift(),unshift()
+// concat()
+let cats = ["blue", "kitty"];
+let dogs = ["rusty", "wyatt"];
+let animals = cats.concat(dogs);
+console.log(animals);
+// includes(),indexOf(),reverse(),slice(),splice(),sort()
+
+//Objects
+const person = {
+  firstName: "Mick",
+  lastName: "Jagger"
+};
